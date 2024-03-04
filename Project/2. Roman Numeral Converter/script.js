@@ -6,7 +6,6 @@ function convertToRoman() {
   var inputNumber = document.getElementById("number").value;
   var outputElement = document.getElementById("output");
 
-  // Validate input
   if (inputNumber === "") {
     outputElement.textContent = "Please enter a valid number";
   } else {
