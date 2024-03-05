@@ -95,7 +95,7 @@ data.forEach((n) => {
                 .join(" ")}
             </div>
             <h4>
-              <a href="Project/${n.title}/index.html">
+              <a href="Project/${n.title}/index.html" target="_blank" rel="noreferrer noopener">
                 ${n.title}
               </a>
             </h4>
