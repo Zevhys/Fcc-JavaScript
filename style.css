@@ -28,6 +28,9 @@ body {
 
 a {
   color: black;
+  text-decoration-thickness: 0.2rem;
+  text-decoration-color: #804f00;
+  text-underline-offset: 0.4em;
 }
 
 .card {
