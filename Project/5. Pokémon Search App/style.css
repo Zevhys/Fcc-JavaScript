@@ -71,6 +71,7 @@ label {
   padding-left: 10px;
   width: 200px;
   font-family: inherit;
+  border: none;
 }
 
 #search-button {
