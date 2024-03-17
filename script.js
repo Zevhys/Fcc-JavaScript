@@ -37,7 +37,7 @@ const data = [
     thumb: "Project/3. Telephone Number Validator/thumbnail.jpg",
     thumb_alt: "A screenchot of my Telephone Number Validator project",
     title: "3. Telephone Number Validator",
-    desc: "Web app for converting numbers to Roman numerals",
+    desc: " A web app for validating US phone numbers.",
     tags: [
       ["HTML", "html5", ""],
       ["CSS", "css3", ""],
